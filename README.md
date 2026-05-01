@@ -41,7 +41,7 @@ The app is a static SPA. All API calls go directly from the browser to the print
 ## Quick Start (Development)
 
 ```bash
-git clone https://github.com/nemoo88/ace-dashboard-ui-ac3acc8e.git printhub
+git clone https://github.com/nemoo88/printhub.git printhub
 cd printhub
 npm install
 npm run dev
